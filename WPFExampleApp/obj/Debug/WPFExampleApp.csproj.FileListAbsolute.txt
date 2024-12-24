@@ -1,0 +1,15 @@
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\bin\Debug\WPFExampleApp.exe.config
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\bin\Debug\WPFExampleApp.exe
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\bin\Debug\WPFExampleApp.pdb
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.csproj.AssemblyReference.cache
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\MainWindow.baml
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\MainWindow.g.cs
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\App.g.cs
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp_MarkupCompile.cache
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.g.resources
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.Properties.Resources.resources
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.csproj.GenerateResource.cache
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.exe
+C:\Users\nabiu\OneDrive\Documents\7 Семестр\MISPISIT\4\WPFExampleApp\WPFExampleApp\obj\Debug\WPFExampleApp.pdb
